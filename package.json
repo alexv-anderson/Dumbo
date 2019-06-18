@@ -1,5 +1,5 @@
 {
     "name": "dumbo",
-    "version": "1",
+    "version": "1.0.0",
     "description": "Following example from https://glebbahmutov.com/blog/use-github-instead-of-npm/"
 }
